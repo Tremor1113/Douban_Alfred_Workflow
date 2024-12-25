@@ -38,3 +38,6 @@
 
 <img width="718" alt="image" src="https://github.com/user-attachments/assets/f5005076-bc66-4568-861f-647ab17eafe9" />
 
+- workflow预览
+
+<img width="944" alt="image" src="https://github.com/user-attachments/assets/d935233c-5736-46c7-8de0-54fae9f99cbc" />

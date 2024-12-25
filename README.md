@@ -1,7 +1,8 @@
-# Douban_Alred_Workflow
+# Douban_Alfred_Workflow
 - 功能：搜索（电影，书籍），查看（榜单250，各个分类榜单）
 - 使用：keyword
 - 初始化必需：Cookie
+
 
 ## 示例：
 
